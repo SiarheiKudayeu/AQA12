@@ -5,5 +5,6 @@ public class GitExample {
         System.out.println("test");
         System.out.println("New changes");
         System.out.println("My friend's commit");
+        System.out.println("TEST!!!");
     }
 }
