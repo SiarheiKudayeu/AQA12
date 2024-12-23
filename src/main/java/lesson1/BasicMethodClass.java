@@ -7,6 +7,7 @@ public class BasicMethodClass {
         printTrain();
     }
 
+
     public static void printTrain() {
         System.out.println("╮╮┈┈┈┈┈┈┈┈┈┈┈┈┈┈\n" +
                 "╰╰┈╰┈╰┈╰┈╰┈┈╮┈┈┈\n" +
