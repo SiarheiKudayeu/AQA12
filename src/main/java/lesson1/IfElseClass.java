@@ -9,17 +9,16 @@ public class IfElseClass {
      }
 
      */
-
         int x = 200;
         if (x > 0) {
-            if(x == 201){
+            if (x == 201) {
                 System.out.println("Yoy are the champion!!!");
-            }else {
+            } else {
                 System.out.println("Your number is positive");
             }
-        } else if(x < 0){
+        } else if (x < 0) {
             System.out.println("Your number is negative");
-        }else {
+        } else {
             System.out.println("Your number is zero");
         }
     }
