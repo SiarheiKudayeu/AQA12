@@ -57,7 +57,6 @@ public class ExampleFour {
         checkString1(text);
         checkString2(text);
         checkString3(text);
-
     }
 
 
